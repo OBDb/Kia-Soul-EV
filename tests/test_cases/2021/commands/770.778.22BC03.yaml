@@ -1,0 +1,12 @@
+command_id: 770.778.22BC03
+test_cases:
+- expected_values:
+    SOULEV_LOW_BEAMS: 4
+  response: |-
+    778100B62BC03FDEE20
+    778216300600400AAAA
+- expected_values:
+    SOULEV_LOW_BEAMS: 4
+  response: |-
+    778100B62BC03FDEE20
+    77821630A000400AAAA
