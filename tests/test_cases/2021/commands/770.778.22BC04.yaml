@@ -1,0 +1,22 @@
+command_id: 770.778.22BC04
+test_cases:
+- expected_values:
+    SOULEV_BELT_RL: 0
+    SOULEV_BELT_RM: 0
+    SOULEV_BELT_RR: 0
+    SOULEV_GEAR_R: 0
+    SOULEV_LOCK_FL: 0
+    SOULEV_LOCK_FR: 0
+  response: |-
+    778100B62BC04B53370
+    778212001000000AAAA
+- expected_values:
+    SOULEV_BELT_RL: 0
+    SOULEV_BELT_RM: 0
+    SOULEV_BELT_RR: 0
+    SOULEV_GEAR_R: 0
+    SOULEV_LOCK_FL: 1
+    SOULEV_LOCK_FR: 1
+  response: |-
+    778100B62BC04B53370
+    77821200D000000AAAA

@@ -1,0 +1,9 @@
+command_id: 7D4.7DC.2101
+test_cases:
+- expected_values:
+    SOULEV_STEER_ANGLE: 0
+  response: |-
+    7DC101761010C4B00FF
+    7DC216C00FFFC000000
+    7DC2201000000000000
+    7DC2300004C00000000
