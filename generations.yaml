@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_Soul_EV"
+
+generations:
+  - name: "First Generation (PS)"
+    start_year: 2014
+    end_year: 2019
+    description: "A battery-electric Soul with a 27 kWh (later 30 kWh) battery."
+  - name: "Second Generation (SK3)"
+    start_year: 2019
+    end_year: null
+    description: "Shares its 39.2 kWh and 64 kWh batteries and motor with the Niro EV and Kona Electric."
